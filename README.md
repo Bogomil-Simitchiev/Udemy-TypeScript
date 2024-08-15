@@ -1,2 +1,2 @@
 # Udemy-TypeScript
-Udemy course for typescript
+Udemy course for TypeScript
